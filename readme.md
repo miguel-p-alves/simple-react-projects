@@ -5,3 +5,4 @@ You can access the projects by clicking these links: <br>
 [Reviews](https://mpa-reviews.netlify.app) <br>
 [Questions](https://mpa-questions.netlify.app) <br>
 [Menu](https://mpa-menu.netlify.app) <br>
+[Tabs](https://mpa-tabs.netlify.app) <br>
