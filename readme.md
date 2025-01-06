@@ -4,3 +4,4 @@ You can access the projects by clicking these links: <br>
 [Tours](https://mpa-tours.netlify.app) <br>
 [Reviews](https://mpa-reviews.netlify.app) <br>
 [Questions](https://mpa-questions.netlify.app) <br>
+[Menu](https://mpa-menu.netlify.app) <br>
