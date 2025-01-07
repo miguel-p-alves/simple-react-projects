@@ -6,3 +6,4 @@ You can access the projects by clicking these links: <br>
 [Questions](https://mpa-questions.netlify.app) <br>
 [Menu](https://mpa-menu.netlify.app) <br>
 [Tabs](https://mpa-tabs.netlify.app) <br>
+[Slider](https://mpa-slider.netlify.app) - Made with React Slick library <br>
